@@ -2,16 +2,8 @@ package exam;
 
 public class ConvertToBinary {
   
-  
-  
-  
-  
-  
-
   public String toBinary(final int n) {
     //TODO write your code here to achieve the desired result as explained in Readme file for this problem.
-  
-
     if (n < 0)
       return "Invalid number. Please input positive number.";
     if(n==0)
